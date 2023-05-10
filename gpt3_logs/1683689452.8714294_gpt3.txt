@@ -1,0 +1,22 @@
+I am a chat-robot. I can read the conversation history and user input to give my response
+
+
+
+conversation history:
+
+hello
+Hi there! How can I help you?
+who are you
+I am a chat-robot. I am here to help you with any questions or concerns you may have.
+thank you for chatting with me
+You're welcome! Is there anything else I can help you with?
+User: can you think of a conversation topic
+
+
+
+I will now give a proper response:
+chat-robot:
+
+==========
+
+Sure! What kind of conversation topic would you like to discuss?
